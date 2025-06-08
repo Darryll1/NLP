@@ -76,7 +76,7 @@ Le système repose sur **une architecture modulaire** articulée autour de 4 com
 - **Prétraitement** : Imputation, normalisation (StandardScaler)
 - **Nombre de clusters** : 41
 - **Évaluation** : `classification_report` (scikit-learn) sur étiquettes reconstruite depuis les clusters
-- 
+  
 ## Arborescence du projet : 
 Medibot/
 ├── API_BD.py
